@@ -2,11 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e747bd50-7752-4818-a607-c5e7fc37a8b6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/lab5/lab5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android-docs-samples/speech/Speech/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/android-docs-samples/speech/Speech/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android-docs-samples/speech/Speech/app/src/main/java/com/google/cloud/android/speech/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/android-docs-samples/speech/Speech/app/src/main/java/com/google/cloud/android/speech/MainActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android-docs-samples/speech/Speech/app/src/main/java/com/google/cloud/android/speech/SpeechService.java" beforeDir="false" afterPath="$PROJECT_DIR$/android-docs-samples/speech/Speech/app/src/main/java/com/google/cloud/android/speech/SpeechService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android-docs-samples/speech/Speech/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android-docs-samples/speech/Speech/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../databass-public" beforeDir="false" afterPath="$PROJECT_DIR$/../databass-public" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1/EECS4764_Lab_1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab5/lab5_group3_check1.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab5/lab5_group3_check1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab5/lab5_group3_check3a.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab5/lab5_group3_check3a.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../iot2/4764" beforeDir="false" afterPath="$PROJECT_DIR$/../iot2/4764" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zhiji95.github.io" beforeDir="false" afterPath="$PROJECT_DIR$/../zhiji95.github.io" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,30 +26,31 @@
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.7" value="2" />
-          <entry key="project.opened" value="6" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="4" />
-          <entry key="py" value="956" />
+          <entry key="py" value="1372" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="4" />
-          <entry key="Python" value="956" />
+          <entry key="Python" value="1372" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="6" />
+          <entry key="py" value="8" />
           <entry key="pyi" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="6" />
+          <entry key="Python" value="8" />
           <entry key="PythonStub" value="2" />
         </counts>
       </usages-collector>
@@ -54,54 +58,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lab3.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="8" selection-start-line="8" selection-end-line="11" selection-end-column="40" />
-              <folding>
-                <element signature="e#0#14#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/main.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
-              <folding>
-                <element signature="e#0#14#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lab3_group3_checkpoint3(1).py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1426">
-              <caret line="17" column="20" lean-forward="true" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
-              <folding>
-                <element signature="e#0#14#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/lab5/lab5.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="591">
-              <caret line="58" column="8" lean-forward="true" selection-start-line="58" selection-start-column="8" selection-end-line="58" selection-end-column="8" />
-              <folding>
-                <element signature="e#0#14#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3/socket.pyi">
           <provider selected="true" editor-type-id="text-editor">
@@ -112,9 +68,33 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lab5/lab5_group3_check1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="689">
+              <caret line="64" selection-start-line="64" selection-end-line="66" selection-end-column="18" />
+              <folding>
+                <element signature="e#0#14#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lab5/lab5_group3_check3a.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="130">
+              <caret line="41" column="21" selection-start-line="41" selection-start-column="21" selection-end-line="41" selection-end-column="21" />
+              <folding>
+                <element signature="e#0#14#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/socket.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="384">
+            <state relative-caret-position="540">
               <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
             </state>
           </provider>
@@ -152,7 +132,7 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -161,6 +141,8 @@
         <option value="$PROJECT_DIR$/lab3_group3_checkpoint3(1).py" />
         <option value="$PROJECT_DIR$/main.py" />
         <option value="$PROJECT_DIR$/lab5/lab5.py" />
+        <option value="$PROJECT_DIR$/lab5/lab5_group3_check1.py" />
+        <option value="$PROJECT_DIR$/lab5/lab5_group3_check3a.py" />
       </list>
     </option>
   </component>
@@ -172,7 +154,6 @@
   </component>
   <component name="MicroPythonDevices" devicePath="/dev/tty.SLAB_USBtoUART" />
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="y" value="35" />
     <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
@@ -192,7 +173,23 @@
             <path>
               <item name="iot" type="b2602c69:ProjectViewProjectNode" />
               <item name="iot" type="462c0819:PsiDirectoryNode" />
+              <item name="lab1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="iot" type="462c0819:PsiDirectoryNode" />
               <item name="lab5" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="iot" type="462c0819:PsiDirectoryNode" />
+              <item name="lab5" type="462c0819:PsiDirectoryNode" />
+              <item name="Speech" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="iot" type="462c0819:PsiDirectoryNode" />
+              <item name="mpfshell" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -269,8 +266,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49910232" visible="true" weight="0.2639485" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49910232" visible="true" weight="0.26752505" />
       <window_info id="Structure" order="1" sideWeight="0.50089765" side_tool="true" weight="0.2532189" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -300,6 +298,43 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/lab3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="8" selection-start-line="8" selection-end-line="11" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lab3_group3_checkpoint3(1).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="17" column="20" lean-forward="true" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/socket.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$APPLICATION_PLUGINS_DIR$/intellij-micropython/typehints/micropython/machine.pyi">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="10449">
@@ -307,10 +342,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/socket.py">
+    <entry file="file://$PROJECT_DIR$/lab5/lab5.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+        <state relative-caret-position="591">
+          <caret line="58" column="8" lean-forward="true" selection-start-line="58" selection-start-column="8" selection-end-line="58" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -321,40 +359,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lab3.py">
+    <entry file="file://$PROJECT_DIR$/lab5/lab5_group3_check1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="8" selection-start-line="8" selection-end-line="11" selection-end-column="40" />
+        <state relative-caret-position="689">
+          <caret line="64" selection-start-line="64" selection-end-line="66" selection-end-column="18" />
           <folding>
             <element signature="e#0#14#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main.py">
+    <entry file="file://$PROJECT_DIR$/lab5/lab5_group3_check3a.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lab3_group3_checkpoint3(1).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1426">
-          <caret line="17" column="20" lean-forward="true" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lab5/lab5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="591">
-          <caret line="58" column="8" lean-forward="true" selection-start-line="58" selection-start-column="8" selection-end-line="58" selection-end-column="8" />
+        <state relative-caret-position="130">
+          <caret line="41" column="21" selection-start-line="41" selection-start-column="21" selection-end-line="41" selection-end-column="21" />
           <folding>
             <element signature="e#0#14#0" expanded="true" />
           </folding>

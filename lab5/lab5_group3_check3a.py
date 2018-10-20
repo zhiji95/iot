@@ -42,8 +42,13 @@ except:
     print("An exception occurred")
 
 s.listen(10)
+# Set timeout for each 0.5 second. Because Huzzah is single
+# thread, it can not let rtc work as listening. We manually pause
+# listening in order to let clock run.
 s.settimeout(0.5)
 
+# Define a function to capture speech text from string
+# type content sent from mobile app
 def get_text(s):
     for k, c in enumerate(s):
         text = ''
@@ -64,25 +69,18 @@ flag1 = 0;
 while True:
     oled.fill(0)
     
-    
     try:
         cl, addr = s.accept()
-        # cl_file = cl.makefile('rwb', 0)
         content = cl.recv(1024).decode("utf-8")
         text = get_text(content)
         if text in text_l:
             text = text_l[-1]
         else:
             text_l.append(text)
-        # while True:
-        #     line = cl_file.readline()
-        #     if not line or line == b'\r\n':
-        #         break
         cl.close()
-        print(text)
     except:
         pass
-    
+    # Recognize the command
     if text[0:7] == 'turn on' and flag1 == 1:
         oled = ssd1306.SSD1306_I2C(128, 32, i2c)
         print("i am in turn on")
@@ -91,11 +89,10 @@ while True:
         oled.poweroff()
         print("i am in turn off")
         flag1 = 1
-
+    # Display time and text on OLED
     oled.text(text, 0, 20)
     displaytime = rtc.datetime()
-    oled.text(
-              str(displaytime[0]) + '/' + str(displaytime[1]) + '/' + str(displaytime[2]) + 'Week:' + str(displaytime[3]), 0,
+    oled.text(str(displaytime[0]) + '/' + str(displaytime[1]) + '/' + str(displaytime[2]) + 'Week:' + str(displaytime[3]), 0,
               0)
 oled.text(str(displaytime[4]) + ':' + str(displaytime[5]) + ':' + str(displaytime[6]), 0, 10)
 oled.show()

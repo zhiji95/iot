@@ -2,6 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/android-docs-samples" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/lab5/android-docs-samples" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/mpfshell" vcs="Git" />

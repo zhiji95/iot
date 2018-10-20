@@ -21,6 +21,7 @@ do_connect()
 addr = socket.getaddrinfo('0.0.0.0', 8088)[0][-1]
 s = socket.socket()
 
+
 try:
     s.bind(addr)
 except:
@@ -29,6 +30,7 @@ except:
 s.listen(1)
 
 def get_text(s):
+    # s: input context string
     for k, c in enumerate(s):
         text = ''
         if c == '=':
