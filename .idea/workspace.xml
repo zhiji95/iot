@@ -3,12 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="e747bd50-7752-4818-a607-c5e7fc37a8b6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../databass-public" beforeDir="false" afterPath="$PROJECT_DIR$/../databass-public" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab1/EECS4764_Lab_1.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab5/lab5_group3_check1.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab5/lab5_group3_check1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab5/lab5_group3_check3a.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab5/lab5_group3_check3a.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../iot2/4764" beforeDir="false" afterPath="$PROJECT_DIR$/../iot2/4764" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../zhiji95.github.io" beforeDir="false" afterPath="$PROJECT_DIR$/../zhiji95.github.io" afterDir="false" />
     </list>
@@ -22,14 +16,15 @@
     <session id="-452463586">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="7" />
+          <entry key="project.closed" value="8" />
           <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.7" value="2" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="8" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -86,7 +81,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="756">
+            <state relative-caret-position="594">
               <caret line="28" column="32" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="45" />
               <folding>
                 <element signature="e#134#148#0" expanded="true" />
@@ -275,7 +270,7 @@
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49910232" visible="true" weight="0.27110156" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49910232" visible="true" weight="0.2746781" />
       <window_info id="Structure" order="1" sideWeight="0.50089765" side_tool="true" weight="0.2532189" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -309,10 +304,29 @@
     <entry file="file://$PROJECT_DIR$/main.py" />
     <entry file="file://$PROJECT_DIR$/lab3_group3_checkpoint3(1).py" />
     <entry file="file://$PROJECT_DIR$/lab5/lab5.py" />
+    <entry file="file://$PROJECT_DIR$/lab5/lab5_group3_check3a.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="49">
+          <caret line="38" column="4" selection-start-line="38" selection-start-column="4" selection-end-line="38" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3/socket.pyi">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15228">
           <caret line="565" column="14" selection-start-line="565" selection-start-column="14" selection-end-line="565" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="28" column="32" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="45" />
+          <folding>
+            <element signature="e#134#148#0" expanded="true" />
+            <marker date="1540412166390" expanded="true" signature="855:856" ph="..." />
+            <marker date="1540412166390" expanded="true" signature="855:862" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -327,28 +341,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="10449">
           <caret line="387" column="9" selection-start-line="387" selection-start-column="6" selection-end-line="387" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lab5/lab5_group3_check3a.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="49">
-          <caret line="38" column="4" selection-start-line="38" selection-start-column="4" selection-end-line="38" selection-end-column="4" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="756">
-          <caret line="28" column="32" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="45" />
-          <folding>
-            <element signature="e#134#148#0" expanded="true" />
-            <marker date="1540412166390" expanded="true" signature="855:856" ph="..." />
-            <marker date="1540412166390" expanded="true" signature="855:862" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>

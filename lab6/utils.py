@@ -21,6 +21,7 @@ def normalize(x):
     '''
     scaler = preprocessing.StandardScaler().fit(x)
     X_nomalized = scaler.transform(x)
+    return X_nomalized
 def svm():
     '''
     Relatively good svm model gridsearch. Basically the same as mnist model.
