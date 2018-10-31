@@ -6,7 +6,7 @@ import com.loopj.android.http.AsyncHttpResponseHandler;
 import com.loopj.android.http.RequestParams;
 
 public class Send {
-    private static final String BASE_URL = "http://172.20.10.11:8088";
+    private static final String BASE_URL = "http://172.20.10.9:8088";
 
     private static AsyncHttpClient client = new AsyncHttpClient();
 
